@@ -63,7 +63,7 @@ Steps
 - Replace the placeholder in app.py with your Bearer Token:
 
     ```bash
-    BEARER_TOKEN = "your_bearer_token"  # Replace with your Bearer  Token
+    BEARER_TOKEN = "your_bearer_token"  # Replace with your Token
     ```
 
 
