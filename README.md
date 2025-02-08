@@ -34,7 +34,7 @@ This project is a Real-Time Sentiment Analysis system that analyzes tweets from 
 Prerequisites
 
 - Python 3.8 or higher
-- Twitter Developer Account (for API access)
+- Twitter Developer Account (for API accesss)
 
 Steps
 
