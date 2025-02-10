@@ -23,7 +23,7 @@ This project is a Real-Time Sentiment Analysis system that analyzes tweets from 
 - [Acknowledgements]()
 
 ## Features
-- Real-Time Tweet Fetching: Fetches recent tweets using the Twitter API v2..
+- Real-Time Tweet Fetching: Fetches recent tweets using the Twitter API v2....
 - Sentiment Analysis: Analyzes tweet sentiment using TextBlob.
 - Simple Web Interface: Displays results in a clean and user-friendly format.
 - Customizable: Easily extendable for advanced use cases.
